@@ -1,0 +1,46 @@
+body{
+  background-color: #5ff;
+}
+
+header{
+  display: flex;
+  position: relative;
+  background-color: blue;
+  color: black;
+  width: 1000px;
+  height: 150px;
+}
+.s1{
+}
+
+article{
+  border: 5px solid black ;
+  border-radius: 25px;
+  margin: 50px auto;
+  padding:25px;
+  height: 600px;
+  font-size: 50px;
+  text-align: center;
+}
+.sp1{
+  height: 150px;
+}
+
+.one  {
+  background-color: #fff;
+  text-align: center;
+}
+
+.Contact  {
+  text-align:center;
+  background-color: white;
+}
+
+.mar1 {
+  color: #55f;
+  font-size: 50px;  
+}
+
+.logo {
+  height: 50px;
+}
